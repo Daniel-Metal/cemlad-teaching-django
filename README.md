@@ -164,20 +164,6 @@ http://127.0.0.1:8000/
 
 ---
 
-# Documentación Swagger
-
-## Swagger UI
-
-```text
-http://127.0.0.1:8000/api/docs/
-```
-
-## ReDoc
-
-```text
-http://127.0.0.1:8000/api/redoc/
-```
-
 ---
 
 # Endpoints Principales
@@ -303,11 +289,9 @@ Daniel Altamirano
 
 # Repositorio GitHub
 
-https://github.com/DannyelAlejandro/cemlad-teaching-django
+[https://github.com/DannyelAlejandro/cemlad-teaching-django](https://github.com/Daniel-Metal/cemlad-teaching-django.git)
 
 ---
 
-# Licencia
 
-Proyecto desarrollado con fines académicos.
 
